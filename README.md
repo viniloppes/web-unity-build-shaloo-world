@@ -108,10 +108,6 @@ Fases com dificuldade crescente e novos desafios visuais e cognitivos.
 ### Tutorial
 <img src="https://viniloppes.github.io/web-unity-build-shaloo-world/assets/tutorial/tutorial.jpg" alt="project-screenshot" height="200">
 
-# UI (Interface do Usuario)
-## Wireframe
-<img src="https://viniloppes.github.io/web-unity-build-shaloo-world/assets/wireframe/wireframe.jpg" alt="project-screenshot" height="200">
-
 ---
 
 <a name="universo-personagens"></a>
@@ -155,11 +151,21 @@ O vilão da história é um jovem bichinho que vive fazendo bagunça e tomando d
 <img src="https://viniloppes.github.io/web-unity-build-shaloo-world/assets/tigre_v2.jpg" alt="project-screenshot" height="200">
 
 <a name="direcao-arte"></a>
-## Direção de Arte
+# Direção de Arte
+## Design
 - **Estilo:** Toon / Cartunesco e Colorido  
 - **Tipografia:** Berlin Sans FB (Titulo), Nunito (Corpo).
 
 Shallo world carrega uma motivação de trazer uma experiencia cartunesca para o jogador com um mundo agradavel, colorido e bonito, com fases em diversos biomas e natureza. Um paraiso para que o jogador se sinta bem jogando, mostrar os perigos mas ainda mais a beleza que há no mundo e a importancia de cuidarmos dele.
+
+
+## UI e HUD
+### Wireframe
+<img src="https://viniloppes.github.io/web-unity-build-shaloo-world/assets/wireframe/wireframe.jpg" alt="project-screenshot" height="200">
+
+### Moodleboard
+<img src="https://viniloppes.github.io/web-unity-build-shaloo-world/assets/moodleboard-ui/ui-board.jpeg" alt="project-screenshot" height="200">
+
 
 ---
 <a name="detalhes-tecnicos"></a>
